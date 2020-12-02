@@ -21,8 +21,13 @@ Configurate .env settings by you.
 
 
 Create "new Schema" with Mysql workbench ( must be same as in DB DATABASE = "enter_your_DB_name")
+
 Run php artisan migrate
+
 Run php artisan serve
+
 For first time it will ask to "Generate App Key", just press the button and let's roll :)
+
 Register with your email.
+
 Goodluck for using ;)
